@@ -1,6 +1,6 @@
 An investment calculator made with React. :)
 
-<ol>
+<ul>
 <li><b>To visualize it, click here:</b> <a href="https://investment-calculator-tawny.vercel.app">Investment Calculator</a>
 </li>
 
@@ -10,5 +10,5 @@ An investment calculator made with React. :)
 <li><b>To visualize it on your web browser, run:</b>
     <p><code>npm run dev</code><p></p>
 </li>
-</ol>
+</ul>
 
